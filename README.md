@@ -1,0 +1,1 @@
+Please use terraform.tafvars-template file and rename it to terraform.tafvars and put your variable values there.
